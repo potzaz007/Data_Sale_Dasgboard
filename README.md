@@ -1,6 +1,6 @@
 # Data_Sale_Dasgboard
 # Overview
-The objective of this project is to analyze supermarket sales using Power BI After doing the analysis,I created an interactive dashboard that aims to make it easier for the audience to explore data.
+The objective of this project is to analyze data sales using Power BI After doing the analysis,I created an interactive dashboard that aims to make it easier for the audience to explore data.
 # Problem
 1. Gross Income 
 2. Gross Income by Channel
