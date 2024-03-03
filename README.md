@@ -9,8 +9,11 @@ The objective of this project is to analyze supermarket sales using Power BI Aft
 5. Gross Income by Product Category
 # Algorithm
 1.Generate data using graphs and tables
+
 2.Analyzing data
+
 3.Creating dashboard
+
 # Dashboard
 ![image (1)](https://github.com/potzaz007/Data_Sale_Dasgboard/assets/154373532/ad1efd5b-5882-42e2-9c87-57afae169a94)
 # Thank you
