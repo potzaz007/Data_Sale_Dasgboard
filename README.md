@@ -16,4 +16,7 @@ The objective of this project is to analyze data sales using Power BI After doin
 
 # Dashboard
 ![image (1)](https://github.com/potzaz007/Data_Sale_Dasgboard/assets/154373532/ad1efd5b-5882-42e2-9c87-57afae169a94)
+
+# Analysis data
+From the dashboard, we can see that the store sells the most and has more than half of the share. We should organize promotions or use this as a strength in dividing market share. By adding a storefront or organizing promotions about computers and cameras because they have the highest sales from the store and are the best sellers in North America.
 # Thank you
