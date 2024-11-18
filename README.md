@@ -1,4 +1,4 @@
-# Data_Sale_Dasgboard
+# Data_Sale_Dashboard
 # Overview
 The objective of this project is to analyze data sales using Power BI After doing the analysis,I created an interactive dashboard that aims to make it easier for the audience to explore data.
 # Problem
